@@ -47,10 +47,18 @@ The attack went from phishing click to full LMS encryption in under nine hours. 
 ## Frameworks and Methods Used
 
 - **MITRE ATT&CK** for mapping each attack stage to techniques
+
+![alt text](https://github.com/myzz-rica/cybersecurity-incident-investigation-of-a-phishing-led-ransomware-attack/blob/main/Images/Mitre%20Attack.png)
+
 - **NIST Incident Response framework** for the response actions
 - **CIA Triad** for impact analysis
 - **CVSS v3.1** for scoring the domain controller vulnerability
+
+![alt text](https://github.com/myzz-rica/cybersecurity-incident-investigation-of-a-phishing-led-ransomware-attack/blob/main/Images/cvss.png)
+
 - **Log analysis** of a reconstructed Auth, Firewall, System, and WebServer log set
+
+![alt text](https://github.com/myzz-rica/cybersecurity-incident-investigation-of-a-phishing-led-ransomware-attack/blob/main/Images/logs%20.png)
 
 ## Deliverables in This Repository
 
